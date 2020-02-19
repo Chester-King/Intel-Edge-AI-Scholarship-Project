@@ -3,12 +3,16 @@ import cv2 as cv
 import argparse
 import psutil
 import os
-
+import pyrebase
 
 from openvino.inference_engine import IECore, IENetwork
 
 
 def run_app():
+
+    firebase = pyrebase.initialize_app(config)
+
+    db = firebase.database()
     human_count = 0
     car_count = 0
     frame_count = 0
@@ -120,6 +124,8 @@ def run_app():
                     human_count += 1
                     cv.rectangle(frame, (xmin, ymin),
                                  (xmax, ymax), (0, 0, 255), 3)
+                db.child("cars").set(car_count)
+                db.child("humans").set(human_count)
                 print("Number Of Humans present : ", human_count)
                 print("Number Of Cars present : ", car_count)
             else:
@@ -216,6 +222,8 @@ def run_app():
                                     human_count += 1
                                     cv.rectangle(frame, (xmin, ymin),
                                                  (xmax, ymax), (0, 0, 255), 3)
+                        db.child("cars").set(car_count)
+                        db.child("humans").set(human_count)
                         print("Number Of Humans present : ", human_count)
                         print("Number Of Cars present : ", car_count)
                         fps = frame_count / (time.time() - start_time)
@@ -285,6 +293,9 @@ def run_app():
                             cv.rectangle(frame, (xmin, ymin),
                                          (xmax, ymax), (0, 0, 255), 3)
                         detection_percentage = round(detection[2], 4)
+                db.child("cars").set(car_count)
+                db.child("humans").set(human_count)
+
                 print("Number Of Humans present : ", human_count)
                 print("Number Of Cars present : ", car_count)
 
@@ -312,6 +323,12 @@ def run_app():
 
 if __name__ == '__main__':
 
+    config = {
+        "apiKey": "<Database Secret>",
+        "authDomain": "intelaiopenvino.firebaseapp.com",
+        "databaseURL": "https://intelaiopenvino.firebaseio.com",
+        "storageBucket": "intelaiopenvino.appspot.com"
+    }
     # Parse Arguments
     parser = argparse.ArgumentParser(
         description='Open VINO vehical detection ADAS')
