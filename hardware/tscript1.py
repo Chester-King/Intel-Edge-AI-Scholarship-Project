@@ -8,7 +8,8 @@ from openvino.inference_engine import IECore, IENetwork
 
 
 def run_app():
-
+    human_count = 0
+    car_count = 0
     frame_count = 0
 
     print("App INITIALIZED")
@@ -92,6 +93,8 @@ def run_app():
 
         print(detections)
         # refined_detections = []
+        human_count = 0
+        car_count = 0
         for detection in detections:
 
             print("*********************************************")
@@ -109,11 +112,15 @@ def run_app():
                 xmax = int(detection[5] * fw)
                 ymax = int(detection[6] * fh)
                 if(detection[1] == 1):
+                    car_count += 1
                     cv.rectangle(frame, (xmin, ymin),
                                  (xmax, ymax), (0, 255, 0), 3)
                 if(detection[1] == 2):
+                    human_count += 1
                     cv.rectangle(frame, (xmin, ymin),
                                  (xmax, ymax), (0, 0, 255), 3)
+                print("Number Of Humans present : ", human_count)
+                print("Number Of Cars present : ", car_count)
             else:
                 break
                 # if detection[2] > arguments.detection_threshold:
@@ -190,6 +197,8 @@ def run_app():
                         frame_order.pop(0)
 
                         detections = results[0][0]
+                        human_count = 0
+                        car_count = 0
                         for detection in detections:
 
                             if detection[2] > arguments.detection_threshold:
@@ -199,12 +208,15 @@ def run_app():
                                 xmax = int(detection[5] * fw)
                                 ymax = int(detection[6] * fh)
                                 if(detection[1] == 1):
+                                    car_count += 1
                                     cv.rectangle(frame, (xmin, ymin),
                                                  (xmax, ymax), (0, 255, 0), 3)
                                 if(detection[1] == 2):
+                                    human_count += 1
                                     cv.rectangle(frame, (xmin, ymin),
                                                  (xmax, ymax), (0, 0, 255), 3)
-
+                        print("Number Of Humans present : ", human_count)
+                        print("Number Of Cars present : ", car_count)
                         fps = frame_count / (time.time() - start_time)
                         # Write Information on Image
                         text = 'FPS: {}, INF: {} ms'.format(round(fps, 3), "-")
@@ -252,6 +264,8 @@ def run_app():
 
                 # Print Bounding Boxes on Image
                 detections = results[OutputLayer][0][0]
+                human_count = 0
+                car_count = 0
                 for detection in detections:
 
                     if detection[2] > arguments.detection_threshold:
@@ -262,12 +276,16 @@ def run_app():
                         ymax = int(detection[6] * fh)
 
                         if(detection[1] == 1):
+                            car_count += 1
                             cv.rectangle(frame, (xmin, ymin),
                                          (xmax, ymax), (0, 255, 0), 3)
                         if(detection[1] == 2):
+                            human_count += 1
                             cv.rectangle(frame, (xmin, ymin),
                                          (xmax, ymax), (0, 0, 255), 3)
                         detection_percentage = round(detection[2], 4)
+                print("Number Of Humans present : ", human_count)
+                print("Number Of Cars present : ", car_count)
 
                 text = "SYS CPU% {} SYS MEM% {} \n " \
                        "PROC CPU Affinity {} \n " \
