@@ -52,6 +52,18 @@
         "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_layout_snackbar_include.xml"
     },
     {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
         "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar.xml.flat",
         "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\design_layout_snackbar.xml"
     },
@@ -76,24 +88,24 @@
         "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\anim_splash_animation.xml.flat",
-        "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\anim\\splash_animation.xml"
-    },
-    {
         "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
         "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\14a79f6ebd9e7f0f0d0c6139a48fc037\\core-1.1.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\anim_splash_animation.xml.flat",
+        "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\anim\\splash_animation.xml"
     },
     {
         "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
-        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\24b548ffb7957c6303ba23318706af16\\media-1.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
-    },
-    {
         "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_layout_snackbar.xml.flat",
         "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\24b548ffb7957c6303ba23318706af16\\media-1.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
         "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
@@ -160,12 +172,20 @@
         "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\24b548ffb7957c6303ba23318706af16\\media-1.0.0\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
         "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_alert_dialog_actions.xml.flat",
         "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_alert_dialog_actions.xml"
     },
     {
         "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
         "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
         "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",

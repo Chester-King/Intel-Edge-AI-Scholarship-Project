@@ -179,8 +179,10 @@ def run_app():
                 print('Request Id {} Created'.format(i))
 
             print('Request Ids {}'.format(request_order))
-
+        cc = 0
+        hc = 0
         while has_frame:
+
             if arguments.async:
                 if len(request_order) > 0:
                     resized = cv.resize(frame, (W, H))
@@ -230,8 +232,13 @@ def run_app():
                                                               round(detection[2], 3))
                                     cv.putText(
                                         show_frame, text, (xmin, ymin - 7), cv.FONT_HERSHEY_PLAIN, 0.8, (0, 0, 255), 1)
-                        db.child("cars").set(car_count)
-                        db.child("humans").set(human_count)
+                        if(cc != car_count):
+                            cc = car_count
+                            db.child("cars").set(car_count)
+                        if(hc != human_count):
+                            hc = human_count
+                            db.child("humans").set(human_count)
+
                         print("Number Of Humans present : ", human_count)
                         print("Number Of Cars present : ", car_count)
                         fps = frame_count / (time.time() - start_time)
@@ -309,11 +316,15 @@ def run_app():
                             cv.putText(
                                 frame, text, (xmin, ymin - 7), cv.FONT_HERSHEY_PLAIN, 0.8, (0, 0, 255), 1)
                         detection_percentage = round(detection[2], 4)
-                db.child("cars").set(car_count)
-                db.child("humans").set(human_count)
 
-                print("Number Of Humans present : ", human_count)
-                print("Number Of Cars present : ", car_count)
+                if(cc != car_count):
+                    cc = car_count
+                    db.child("cars").set(car_count)
+                    print("Number Of Humans present : ", human_count)
+                if(hc != human_count):
+                    hc = human_count
+                    db.child("humans").set(human_count)
+                    print("Number Of Cars present : ", car_count)
 
                 text = "SYS CPU% {} SYS MEM% {} \n " \
                        "PROC CPU Affinity {} \n " \
