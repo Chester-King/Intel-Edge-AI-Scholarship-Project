@@ -27,9 +27,12 @@ anim design_bottom_sheet_slide_in
 anim design_bottom_sheet_slide_out
 anim design_snackbar_in
 anim design_snackbar_out
+anim fadein
+anim fadeout
 anim mtrl_bottom_sheet_slide_in
 anim mtrl_bottom_sheet_slide_out
 anim mtrl_card_lowers_interpolator
+anim splash_animation
 animator design_appbar_state_list_animator
 animator design_fab_hide_motion_spec
 animator design_fab_show_motion_spec
@@ -1565,6 +1568,7 @@ id always
 id async
 id auto
 id automatic
+id background
 id barrier
 id beginning
 id blocking
@@ -1752,6 +1756,7 @@ id snap
 id snapMargins
 id software
 id spacer
+id splashScreen
 id split_action_bar
 id spread
 id spread_inside
@@ -1875,6 +1880,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_splash
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog

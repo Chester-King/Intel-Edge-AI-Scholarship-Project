@@ -107,23 +107,23 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\HP
 	android:theme
 		ADDED from D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:14:9-40
 activity#com.example.homegaurdian.SplashActivity
-ADDED from D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:15:9-61
+ADDED from D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:15:9-21:20
 	android:name
 		ADDED from D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:15:19-49
-activity#com.example.homegaurdian.MainActivity
-ADDED from D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:16:9-22:20
-	android:name
-		ADDED from D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:16:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:17:13-21:29
+ADDED from D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:18:17-69
+ADDED from D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:18:25-66
+		ADDED from D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:20:17-77
+ADDED from D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:20:27-74
+		ADDED from D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.homegaurdian.MainActivity
+ADDED from D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:22:9-59
+	android:name
+		ADDED from D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:22:19-47
 uses-sdk
 INJECTED from D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml

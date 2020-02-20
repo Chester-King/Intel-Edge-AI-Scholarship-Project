@@ -12,6 +12,10 @@
         "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\design_layout_tab_text.xml"
     },
     {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\anim_fadein.xml.flat",
+        "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\anim\\fadein.xml"
+    },
+    {
         "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_abc_screen_toolbar.xml.flat",
         "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout-v26\\abc_screen_toolbar.xml"
     },
@@ -72,6 +76,10 @@
         "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\anim_splash_animation.xml.flat",
+        "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\anim\\splash_animation.xml"
+    },
+    {
         "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
         "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\14a79f6ebd9e7f0f0d0c6139a48fc037\\core-1.1.0\\res\\layout-v21\\notification_action.xml"
     },
@@ -112,16 +120,16 @@
         "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout-land\\mtrl_picker_header_dialog.xml"
     },
     {
-        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
-        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\24b548ffb7957c6303ba23318706af16\\media-1.0.0\\res\\layout\\notification_media_cancel_action.xml"
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_calendar_vertical.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_calendar_vertical.xml"
     },
     {
         "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_calendar_vertical.xml.flat",
-        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_calendar_vertical.xml"
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\24b548ffb7957c6303ba23318706af16\\media-1.0.0\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
         "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_text_view_with_theme_line_height.xml.flat",
@@ -132,12 +140,12 @@
         "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_picker_dialog.xml.flat",
-        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_picker_dialog.xml"
-    },
-    {
         "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_calendar_days_of_week.xml.flat",
         "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_calendar_days_of_week.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_picker_dialog.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_picker_dialog.xml"
     },
     {
         "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
@@ -228,6 +236,10 @@
         "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\anim_fadeout.xml.flat",
+        "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\anim\\fadeout.xml"
+    },
+    {
         "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_alert_dialog_title.xml.flat",
         "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_alert_dialog_title.xml"
     },
@@ -314,6 +326,10 @@
     {
         "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\layout\\activity_splash.xml"
     },
     {
         "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_design_layout_snackbar.xml.flat",
