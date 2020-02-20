@@ -1,0 +1,502 @@
+[
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\24b548ffb7957c6303ba23318706af16\\media-1.0.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_text.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout-v26\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\24b548ffb7957c6303ba23318706af16\\media-1.0.0\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_sheet_dialog.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_layout_snackbar_include.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_alert_dialog.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_calendar_month_labeled.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_calendar_month_labeled.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_text_view_without_line_height.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\text_view_without_line_height.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\14a79f6ebd9e7f0f0d0c6139a48fc037\\core-1.1.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\24b548ffb7957c6303ba23318706af16\\media-1.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_tooltip.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_mtrl_picker_header_dialog.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout-land\\mtrl_picker_header_dialog.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\24b548ffb7957c6303ba23318706af16\\media-1.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_calendar_vertical.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_calendar_vertical.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_text_view_with_theme_line_height.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\text_view_with_theme_line_height.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_picker_dialog.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_calendar_days_of_week.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_calendar_days_of_week.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\24b548ffb7957c6303ba23318706af16\\media-1.0.0\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_alert_dialog_actions.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_alert_dialog_actions.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\24b548ffb7957c6303ba23318706af16\\media-1.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\14a79f6ebd9e7f0f0d0c6139a48fc037\\core-1.1.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\24b548ffb7957c6303ba23318706af16\\media-1.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_test_toolbar_custom_background.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\test_toolbar_custom_background.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_text_input_end_icon.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\design_text_input_end_icon.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\24b548ffb7957c6303ba23318706af16\\media-1.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_menu_item_action_area.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_alert_select_dialog_singlechoice.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_alert_select_dialog_singlechoice.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\14a79f6ebd9e7f0f0d0c6139a48fc037\\core-1.1.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_text_input_start_icon.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\design_text_input_start_icon.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_alert_dialog_title.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_alert_dialog_title.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_calendar_day_of_week.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_calendar_day_of_week.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_subheader.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_picker_header_toggle.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_picker_header_toggle.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_navigation_item.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_test_toolbar_elevation.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\test_toolbar_elevation.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\14a79f6ebd9e7f0f0d0c6139a48fc037\\core-1.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_header.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_mtrl_calendar_month.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout-v26\\mtrl_calendar_month.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_alert_select_dialog_multichoice.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_alert_select_dialog_multichoice.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_picker_actions.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_picker_actions.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\14a79f6ebd9e7f0f0d0c6139a48fc037\\core-1.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout-watch-v20\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_picker_header_dialog.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_picker_header_dialog.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\24b548ffb7957c6303ba23318706af16\\media-1.0.0\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_test_toolbar.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\test_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_test_design_checkbox.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\test_design_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_picker_fullscreen.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_picker_fullscreen.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_icon.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_calendar_month_navigation.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_calendar_month_navigation.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_mtrl_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout-sw600dp-v13\\mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu_item.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_picker_header_fullscreen.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_picker_header_fullscreen.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_test_reflow_chipgroup.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\test_reflow_chipgroup.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_picker_header_title_text.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_picker_header_title_text.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_calendar_day.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_calendar_day.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_alert_select_dialog_item.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_alert_select_dialog_item.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_cascading_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_calendar_month.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_calendar_month.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_picker_text_input_date_range.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_picker_text_input_date_range.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_dialog.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\14a79f6ebd9e7f0f0d0c6139a48fc037\\core-1.1.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_calendar_horizontal.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_calendar_horizontal.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_content_include.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar_include.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\14a79f6ebd9e7f0f0d0c6139a48fc037\\core-1.1.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_calendar_months.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_calendar_months.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_text_view_with_line_height_from_appearance.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\text_view_with_line_height_from_appearance.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_separator.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_test_action_chip.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\test_action_chip.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_calendar_year.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_calendar_year.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_text_view_with_line_height_from_style.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\text_view_with_line_height_from_style.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\31e27e36e4e3975b810490a9efac1d77\\appcompat-1.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_text_view_with_line_height_from_layout.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\text_view_with_line_height_from_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_picker_header_selection_text.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_picker_header_selection_text.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_picker_text_input_date.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\mtrl_picker_text_input_date.xml"
+    },
+    {
+        "merged": "D:\\Work\\IntelOpenVINO\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_test_toolbar_surface.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\b646609ef618238c44159712b9eb8c58\\material-1.2.0-alpha04\\res\\layout\\test_toolbar_surface.xml"
+    }
+]

@@ -218,10 +218,18 @@ def run_app():
                                     car_count += 1
                                     cv.rectangle(frame, (xmin, ymin),
                                                  (xmax, ymax), (0, 255, 0), 3)
+                                    text = '{}, %: {}'.format("CAR",
+                                                              round(detection[2], 3))
+                                    cv.putText(
+                                        show_frame, text, (xmin, ymin - 7), cv.FONT_HERSHEY_PLAIN, 0.8, (0, 255, 0), 1)
                                 if(detection[1] == 2):
                                     human_count += 1
                                     cv.rectangle(frame, (xmin, ymin),
                                                  (xmax, ymax), (0, 0, 255), 3)
+                                    text = '{}, %: {}'.format("HUMAN",
+                                                              round(detection[2], 3))
+                                    cv.putText(
+                                        show_frame, text, (xmin, ymin - 7), cv.FONT_HERSHEY_PLAIN, 0.8, (0, 0, 255), 1)
                         db.child("cars").set(car_count)
                         db.child("humans").set(human_count)
                         print("Number Of Humans present : ", human_count)
@@ -288,10 +296,18 @@ def run_app():
                             car_count += 1
                             cv.rectangle(frame, (xmin, ymin),
                                          (xmax, ymax), (0, 255, 0), 3)
+                            text = '{}, %: {}'.format("CAR",
+                                                      round(detection[2], 3))
+                            cv.putText(
+                                frame, text, (xmin, ymin - 7), cv.FONT_HERSHEY_PLAIN, 0.8, (0, 255, 0), 1)
                         if(detection[1] == 2):
                             human_count += 1
                             cv.rectangle(frame, (xmin, ymin),
                                          (xmax, ymax), (0, 0, 255), 3)
+                            text = '{}, %: {}'.format("HUMAN",
+                                                      round(detection[2], 3))
+                            cv.putText(
+                                frame, text, (xmin, ymin - 7), cv.FONT_HERSHEY_PLAIN, 0.8, (0, 0, 255), 1)
                         detection_percentage = round(detection[2], 4)
                 db.child("cars").set(car_count)
                 db.child("humans").set(human_count)
@@ -343,7 +359,7 @@ if __name__ == '__main__':
                         help='Target Plugin: CPU, GPU, FPGA, MYRIAD, MULTI:CPU,GPU, HETERO:FPGA,CPU')
     parser.add_argument('--input-type', default='video',
                         help='Type of Input: image, video, cam')
-    parser.add_argument('--input', default='D:/Work/IntelOpenVINO/videos/Walk.mp4',
+    parser.add_argument('--input', default='D:/Work/IntelOpenVINO/videos/Walk_cut.mp4',
                         help='Path to Input: WebCam: 0, Video File or Image file')
 
     parser.add_argument('--detection-threshold', default=0.6,

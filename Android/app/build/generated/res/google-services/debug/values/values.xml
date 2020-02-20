@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">336130092088-7tmr80dmgdap8ecadu0n6ogtftusfp08.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://intelaiopenvino.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">336130092088</string>
+    <string name="google_api_key" translatable="false">AIzaSyAtIveA1RbszFpqkz1xC8gNzeE3ZJM-qL0</string>
+    <string name="google_app_id" translatable="false">1:336130092088:android:bfb5dc393e68566ece8acd</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAtIveA1RbszFpqkz1xC8gNzeE3ZJM-qL0</string>
+    <string name="google_storage_bucket" translatable="false">intelaiopenvino.appspot.com</string>
+    <string name="project_id" translatable="false">intelaiopenvino</string>
+</resources>

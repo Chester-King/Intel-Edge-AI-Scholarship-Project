@@ -112,6 +112,7 @@ def run_app():
                 ymin = int(detection[4] * fh)
                 xmax = int(detection[5] * fw)
                 ymax = int(detection[6] * fh)
+
                 if(detection[1] == 1):
                     car_count += 1
                     cv.rectangle(frame, (xmin, ymin),
@@ -212,10 +213,19 @@ def run_app():
                                     car_count += 1
                                     cv.rectangle(frame, (xmin, ymin),
                                                  (xmax, ymax), (0, 255, 0), 3)
+                                    text = '{}, %: {}'.format("CAR",
+                                                              round(detection[2], 3))
+                                    cv.putText(
+                                        show_frame, text, (xmin, ymin - 7), cv.FONT_HERSHEY_PLAIN, 0.8, (0, 255, 0), 1)
                                 if(detection[1] == 2):
                                     human_count += 1
                                     cv.rectangle(frame, (xmin, ymin),
                                                  (xmax, ymax), (0, 0, 255), 3)
+                                    text = '{}, %: {}'.format("HUMAN",
+                                                              round(detection[2], 3))
+                                    cv.putText(
+                                        show_frame, text, (xmin, ymin - 7), cv.FONT_HERSHEY_PLAIN, 0.8, (0, 0, 255), 1)
+
                         print("Number Of Humans present : ", human_count)
                         print("Number Of Cars present : ", car_count)
                         fps = frame_count / (time.time() - start_time)
@@ -280,10 +290,18 @@ def run_app():
                             car_count += 1
                             cv.rectangle(frame, (xmin, ymin),
                                          (xmax, ymax), (0, 255, 0), 3)
+                            text = '{}, %: {}'.format("CAR",
+                                                      round(detection[2], 3))
+                            cv.putText(frame, text, (xmin, ymin - 7),
+                                       cv.FONT_HERSHEY_PLAIN, 0.8, (0, 255, 0), 1)
                         if(detection[1] == 2):
                             human_count += 1
                             cv.rectangle(frame, (xmin, ymin),
                                          (xmax, ymax), (0, 0, 255), 3)
+                            text = '{}, %: {}'.format("HUMAN",
+                                                      round(detection[2], 3))
+                            cv.putText(frame, text, (xmin, ymin - 7),
+                                       cv.FONT_HERSHEY_PLAIN, 0.8, (0, 0, 255), 1)
                         detection_percentage = round(detection[2], 4)
                 print("Number Of Humans present : ", human_count)
                 print("Number Of Cars present : ", car_count)

@@ -1,0 +1,88 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:dist="http://schemas.android.com/apk/distribution"
+4    package="com.example.homegaurdian"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="24"
+9-->D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="29" />
+10-->D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml
+11
+12    <dist:module dist:instant="true" />
+12-->D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:6:5-40
+12-->D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:6:18-37
+13
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->[com.google.firebase:firebase-database:16.0.4] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b2704ccd6d3ad2f682474bc04c46a1ab\jetified-firebase-database-16.0.4\AndroidManifest.xml:22:5-79
+14-->[com.google.firebase:firebase-database:16.0.4] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b2704ccd6d3ad2f682474bc04c46a1ab\jetified-firebase-database-16.0.4\AndroidManifest.xml:22:22-76
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->[com.google.firebase:firebase-database:16.0.4] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b2704ccd6d3ad2f682474bc04c46a1ab\jetified-firebase-database-16.0.4\AndroidManifest.xml:23:5-67
+15-->[com.google.firebase:firebase-database:16.0.4] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b2704ccd6d3ad2f682474bc04c46a1ab\jetified-firebase-database-16.0.4\AndroidManifest.xml:23:22-64
+16
+17    <application
+17-->D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:8:5-23:19
+18        android:allowBackup="true"
+18-->D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:9:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\14a79f6ebd9e7f0f0d0c6139a48fc037\core-1.1.0\AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:extractNativeLibs="false"
+22        android:icon="@mipmap/ic_launcher"
+22-->D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:10:9-43
+23        android:label="@string/app_name"
+23-->D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:11:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:12:9-54
+25        android:supportsRtl="true"
+25-->D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:13:9-35
+26        android:theme="@style/AppTheme" >
+26-->D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:14:9-40
+27        <activity android:name="com.example.homegaurdian.SplashActivity" />
+27-->D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:15:9-61
+27-->D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:15:19-49
+28        <activity android:name="com.example.homegaurdian.MainActivity" >
+28-->D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:16:9-22:20
+28-->D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:16:19-47
+29            <intent-filter>
+29-->D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:17:13-21:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:18:17-69
+30-->D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:18:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:20:17-77
+32-->D:\Work\IntelOpenVINO\Android\app\src\main\AndroidManifest.xml:20:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity
+35-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\0f680c7f055e731695a26fc3cd76450c\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+36            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+36-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\0f680c7f055e731695a26fc3cd76450c\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+37            android:exported="false"
+37-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\0f680c7f055e731695a26fc3cd76450c\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+38            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+38-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\0f680c7f055e731695a26fc3cd76450c\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+39
+40        <provider
+40-->[com.google.firebase:firebase-common:16.0.3] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\01312765bd5698bcb09880e9b4de02c9\jetified-firebase-common-16.0.3\AndroidManifest.xml:10:9-14:39
+41            android:name="com.google.firebase.provider.FirebaseInitProvider"
+41-->[com.google.firebase:firebase-common:16.0.3] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\01312765bd5698bcb09880e9b4de02c9\jetified-firebase-common-16.0.3\AndroidManifest.xml:11:13-77
+42            android:authorities="com.example.homegaurdian.firebaseinitprovider"
+42-->[com.google.firebase:firebase-common:16.0.3] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\01312765bd5698bcb09880e9b4de02c9\jetified-firebase-common-16.0.3\AndroidManifest.xml:12:13-72
+43            android:exported="false"
+43-->[com.google.firebase:firebase-common:16.0.3] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\01312765bd5698bcb09880e9b4de02c9\jetified-firebase-common-16.0.3\AndroidManifest.xml:13:13-37
+44            android:initOrder="100" />
+44-->[com.google.firebase:firebase-common:16.0.3] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\01312765bd5698bcb09880e9b4de02c9\jetified-firebase-common-16.0.3\AndroidManifest.xml:14:13-36
+45
+46        <meta-data
+46-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\3cdf0e51b57ec2bf044f984742728fb3\jetified-play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+47            android:name="com.google.android.gms.version"
+47-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\3cdf0e51b57ec2bf044f984742728fb3\jetified-play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
+48            android:value="@integer/google_play_services_version" />
+48-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\3cdf0e51b57ec2bf044f984742728fb3\jetified-play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
+49    </application>
+50
+51</manifest>
