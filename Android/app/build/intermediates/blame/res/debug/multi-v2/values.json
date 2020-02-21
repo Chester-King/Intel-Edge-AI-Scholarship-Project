@@ -191,11 +191,9 @@
                 {
                     "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endColumns": "56",
-                        "endOffsets": "109"
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
                     },
                     "to": {
                         "startLines": "295",
@@ -208,9 +206,11 @@
                 {
                     "source": "D:\\Work\\IntelOpenVINO\\Android\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "-1",
-                        "startColumns": "-1",
-                        "startOffsets": "-1"
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "50",
+                        "endOffsets": "63"
                     },
                     "to": {
                         "startLines": "821",

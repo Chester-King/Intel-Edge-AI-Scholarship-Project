@@ -35,7 +35,7 @@
                 android:textColor="#FF5103"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Home Gaurdian"
+                android:text="Home Guardian"
                 android:textSize="30sp"
                 android:textAlignment="center"
                 android:textStyle="italic"/>
