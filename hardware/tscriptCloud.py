@@ -4,23 +4,22 @@ import argparse
 import psutil
 import os
 import pyrebase
-import asyncio
 
 from openvino.inference_engine import IECore, IENetwork
 
-config = {
-    "apiKey": "<Database Secret>",
-    "authDomain": "intelaiopenvino.firebaseapp.com",
-    "databaseURL": "https://intelaiopenvino.firebaseio.com",
-    "storageBucket": "intelaiopenvino.appspot.com"
-}
-
-firebase = pyrebase.initialize_app(config)
-
-db = firebase.database()
-
 
 def run_app():
+
+    config = {
+        "apiKey": "<Database Secret>",
+        "authDomain": "intelaiopenvino.firebaseapp.com",
+        "databaseURL": "https://intelaiopenvino.firebaseio.com",
+        "storageBucket": "intelaiopenvino.appspot.com"
+    }
+
+    firebase = pyrebase.initialize_app(config)
+
+    db = firebase.database()
 
     human_count = 0
     car_count = 0
@@ -164,7 +163,11 @@ def run_app():
         total_inference_time = 0.0
         # Implementation for CAM or Video File
         # Read Image
-        capture = cv.VideoCapture(arguments.input)
+
+        if(arguments.input == "0"):
+            capture = cv.VideoCapture(0)
+        else:
+            capture = cv.VideoCapture(arguments.input)
         has_frame, frame = capture.read()
         frame_count += 1
 
@@ -395,11 +398,3 @@ if __name__ == '__main__':
     number_of_async_req = int(arguments.request_number)
 
     run_app()
-
-
-async def set_car(a):
-    db.child("cars").set(a)
-
-
-async def set_human(a):
-    db.child("humans").set(a)
