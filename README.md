@@ -84,9 +84,9 @@ A sample command : `python D:\Work\IntelOpenVINO\hardware\tscriptCloud.py --targ
 
 ## Project Working Images
 
-- ![Image 1](https://github.com/Chester-King/InIntel-Edge-AI-Scholarship-Project/project_images/IntelAppLoad.png)
-- ![Image 2](https://github.com/Chester-King/InIntel-Edge-AI-Scholarship-Project/project_images/Inteledgeappstart.png)
-- ![Image 3](https://github.com/Chester-King/InIntel-Edge-AI-Scholarship-Project/project_images/IntelProjectOutput.png)
+- ![Image 1](https://github.com/Chester-King/InIntel-Edge-AI-Scholarship-Project/blob/master/project_images/IntelAppLoad.png)
+- ![Image 2](https://github.com/Chester-King/InIntel-Edge-AI-Scholarship-Project/blob/master/project_images/Inteledgeappstart.png)
+- ![Image 3](https://github.com/Chester-King/InIntel-Edge-AI-Scholarship-Project/blob/master/project_images/IntelProjectOutput.png)
 
 ## Authors
 
