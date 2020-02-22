@@ -305,7 +305,7 @@ def run_app():
                 car_count = 0
                 for detection in detections:
 
-                    if detection[2] > arguments.detection_threshold:
+                    if detection[2] > float(arguments.detection_threshold):
 
                         xmin = int(detection[3] * fw)
                         ymin = int(detection[4] * fh)

@@ -67,6 +67,21 @@ You will also have a video screen which will show you the detection of the cars 
 
 - Wihle the application is running if you check the android application then you can see that the android application updates the values of the cars and humans in the app in realtime.
 
+## The Various Command Line Parameters
+
+`--model-xml` which can be used to specify your own model's XML file
+`--model-bin` which can be used to specify your own model's BIN file
+`--target-device` this param can be used to run the script using FPGA, MYRIAD, MULTI:CPU,GPU, HETERO:FPGA,CPU by default it is set to CPU
+`--input-type` this param is used to specify the type of input you will give to the script. It can have three types of input `image`,`video`,`cam`
+`--input` this param is used to specify the path of the input you will give to the script. For example `D:/Work/IntelOpenVINO/videos/Walk_cut.mp4`. For webcam you need to give `0` as input
+`--detection-threshold` you can change the detection threshold if you want. By default the detection threshold is set to `0.6`
+
+A sample command : `python D:\Work\IntelOpenVINO\hardware\tscriptCloud.py --target-device GPU --input-type cam --input 0 --detection-threshold 0.4`
+
+## Demo of working project
+
+[If you want to see the demo video of the working project you can get that here](https://drive.google.com/open?id=1cIGan87kJsCDwkodEyu0BUJ7j49WNweL)
+
 ## Authors
 
 - **Madhur Dixit** - _Initial work_ - [Chester-King](https://github.com/Chester-King)
