@@ -3,37 +3,37 @@
 3    package="com.example.homegaurdian.test" >
 4
 5    <uses-sdk
-5-->D:\Work\IntelOpenVINO\Android\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6507081457848029275.xml:5:5-74
+5-->D:\Work\IntelOpenVINO\Android\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2561282991457988683.xml:5:5-74
 6        android:minSdkVersion="24"
-6-->D:\Work\IntelOpenVINO\Android\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6507081457848029275.xml:5:15-41
+6-->D:\Work\IntelOpenVINO\Android\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2561282991457988683.xml:5:15-41
 7        android:targetSdkVersion="29" />
-7-->D:\Work\IntelOpenVINO\Android\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6507081457848029275.xml:5:42-71
+7-->D:\Work\IntelOpenVINO\Android\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2561282991457988683.xml:5:42-71
 8
 9    <instrumentation
-9-->D:\Work\IntelOpenVINO\Android\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6507081457848029275.xml:11:5-15:74
+9-->D:\Work\IntelOpenVINO\Android\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2561282991457988683.xml:11:5-15:74
 10        android:name="androidx.test.runner.AndroidJUnitRunner"
-10-->D:\Work\IntelOpenVINO\Android\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6507081457848029275.xml:11:22-76
+10-->D:\Work\IntelOpenVINO\Android\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2561282991457988683.xml:11:22-76
 11        android:functionalTest="false"
-11-->D:\Work\IntelOpenVINO\Android\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6507081457848029275.xml:14:22-52
+11-->D:\Work\IntelOpenVINO\Android\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2561282991457988683.xml:14:22-52
 12        android:handleProfiling="false"
-12-->D:\Work\IntelOpenVINO\Android\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6507081457848029275.xml:13:22-53
+12-->D:\Work\IntelOpenVINO\Android\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2561282991457988683.xml:13:22-53
 13        android:label="Tests for com.example.homegaurdian"
-13-->D:\Work\IntelOpenVINO\Android\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6507081457848029275.xml:15:22-72
+13-->D:\Work\IntelOpenVINO\Android\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2561282991457988683.xml:15:22-72
 14        android:targetPackage="com.example.homegaurdian" />
-14-->D:\Work\IntelOpenVINO\Android\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6507081457848029275.xml:12:22-70
+14-->D:\Work\IntelOpenVINO\Android\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2561282991457988683.xml:12:22-70
 15
 16    <uses-permission android:name="android.permission.REORDER_TASKS" />
 16-->[androidx.test:core:1.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c45ebba9758b673bec79c1eef5c5ae7e\core-1.2.0\AndroidManifest.xml:24:5-72
 16-->[androidx.test:core:1.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c45ebba9758b673bec79c1eef5c5ae7e\core-1.2.0\AndroidManifest.xml:24:22-69
 17
 18    <application
-18-->D:\Work\IntelOpenVINO\Android\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6507081457848029275.xml:7:5-9:19
+18-->D:\Work\IntelOpenVINO\Android\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2561282991457988683.xml:7:5-9:19
 19        android:debuggable="true"
-19-->D:\Work\IntelOpenVINO\Android\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6507081457848029275.xml:7:18-43
+19-->D:\Work\IntelOpenVINO\Android\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2561282991457988683.xml:7:18-43
 20        android:extractNativeLibs="false" >
 21        <uses-library android:name="android.test.runner" />
-21-->D:\Work\IntelOpenVINO\Android\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6507081457848029275.xml:8:9-60
-21-->D:\Work\IntelOpenVINO\Android\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger6507081457848029275.xml:8:23-57
+21-->D:\Work\IntelOpenVINO\Android\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2561282991457988683.xml:8:9-60
+21-->D:\Work\IntelOpenVINO\Android\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2561282991457988683.xml:8:23-57
 22
 23        <activity
 23-->[androidx.test:core:1.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c45ebba9758b673bec79c1eef5c5ae7e\core-1.2.0\AndroidManifest.xml:27:9-33:20

@@ -24,7 +24,8 @@ def run_app():
     human_count = 0
     car_count = 0
     frame_count = 0
-
+    db.child("cars").set(0)
+    db.child("humans").set(0)
     print("App INITIALIZED")
     print("---------")
 
@@ -310,6 +311,10 @@ def run_app():
                         ymin = int(detection[4] * fh)
                         xmax = int(detection[5] * fw)
                         ymax = int(detection[6] * fh)
+
+                        # print("********************")
+                        # print(detection)
+                        # print("********************")
 
                         if(detection[1] == 1):
                             car_count += 1
