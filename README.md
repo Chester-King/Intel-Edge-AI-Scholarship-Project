@@ -80,7 +80,7 @@ A sample command : `python D:\Work\IntelOpenVINO\hardware\tscriptCloud.py --targ
 
 ## Demo of working project
 
-[If you want to see the demo video of the working project you can get that here](https://drive.google.com/open?id=1cIGan87kJsCDwkodEyu0BUJ7j49WNweL)
+Demo video of the project can be seen [here](https://drive.google.com/open?id=1cIGan87kJsCDwkodEyu0BUJ7j49WNweL)
 
 ## Project Working Images
 
@@ -94,7 +94,7 @@ A sample command : `python D:\Work\IntelOpenVINO\hardware\tscriptCloud.py --targ
 
 ## License
 
-This project is open source so if anyone wants to use any part of the code feel free to do so.
+This project is completely open source.
 
 ## Acknowledgments
 
