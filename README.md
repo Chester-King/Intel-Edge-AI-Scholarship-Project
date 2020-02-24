@@ -4,7 +4,11 @@ The objective of the project is to run AI on the edge on CCTV camera at home loo
 
 ## Getting Started
 
-To get the project you have to clone this [github repository](https://github.com/Chester-King/Intel-Edge-AI-Scholarship-Project). You also need to install OpenVINO in your machine. You can get the setup from this [website](https://software.intel.com/en-us/openvino-toolkit/choose-download).You would also need to have an Android Phone to install the APK of the app on your phone. You can download the APK from [here](https://drive.google.com/open?id=1H7cvGGaIPwG5YxuqezwdjMZXCCbIObMg). If you want to look at the android code, you'll need Android Studio in your system. You can download Android Studio frorm [here](https://developer.android.com/studio). To get a better view for the script of hardware or camera I recommend the use of VS Code. You can download VS Code from [here](https://code.visualstudio.com/download).
+- To get the project you have to clone this [github repository](https://github.com/Chester-King/Intel-Edge-AI-Scholarship-Project).
+- You also need to install OpenVINO in your machine. You can get the setup from this [website](https://software.intel.com/en-us/openvino-toolkit/choose-download).
+- You would also need to have an Android Phone to install the APK of the app on your phone. You can download the APK from [here](https://drive.google.com/open?id=1H7cvGGaIPwG5YxuqezwdjMZXCCbIObMg).
+- If you want to look at the android code, you'll need Android Studio in your system. You can download Android Studio frorm [here](https://developer.android.com/studio).
+- To get a better view for the script of hardware or camera I recommend the use of VS Code. You can download VS Code from [here](https://code.visualstudio.com/download).
 
 ### Prerequisites
 
