@@ -98,7 +98,7 @@ Demo video of the project can be seen [here](https://drive.google.com/open?id=1c
 
 ## License
 
-This project is completely open source.
+MIT License
 
 ## Acknowledgments
 
