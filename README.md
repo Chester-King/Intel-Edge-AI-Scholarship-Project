@@ -96,6 +96,10 @@ Demo video of the project can be seen [here](https://drive.google.com/open?id=1c
 
 [This project won the Project Showcase award in the Safety & Security Category of the Udacity Intel® AI Edge Foundational Course Scholarship.](https://www.linkedin.com/feed/update/urn:li:activity:6644688434462068736/)
 
+## Badge
+
+- ![Badge](https://github.com/Chester-King/Intel-Edge-AI-Scholarship-Project/blob/master/project_images/IntelBadge.png)
+
 ## Authors
 
 - **Madhur Dixit** - _Initial work_ - [Chester-King](https://github.com/Chester-King)
